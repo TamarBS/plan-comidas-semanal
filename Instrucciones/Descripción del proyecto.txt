@@ -1,0 +1,13 @@
+PLATOPLAN
+
+Es un planificador semanal de comidas. 
+Permite hacer una organización de comidas para los próximos siente días con todos los platos a un golpe de vista.
+Los días se dividen entre cinco comidas (Desayunos, Almuerzo, Comida, Merienda y Cena).
+La aplicación se ajusta a los diferentes tamaños de pantalla cuidando mantener la mejor visualización de contenidos y el fácil manejo que mejor funcione para cada tamaño.
+Cada día se actualiza para ver siempre los próximos siete días que quedan por delante.
+Ofrece una interfaz suave, amable que ayude a relajarse buscando favorecer la mayor concentración además de un uso intuitivo y sencillo.
+
+VOCABULARIO
+Plato: Contiene el texto que el usuario a ingresado. Indica el nombre de la receta que se ha decidido asignar en una comida y día específico. En una comida puede haber varios platos.
+Comida: Es cada contenedor dentro del día que divide los platos en las cinco típicas comidas del día (Desayunos, almuerzo, comida, merienda y cena). Dentro de una comida se pueden encontrar más de un plato.
+Día: Es cada uno de los siete contenedores que muestra el nombre del día de la semana, la fecha en formato dd/mm/aaaa y la lista de las cinco comidas del día con sus respectivo platos asignados.
